@@ -7,6 +7,10 @@ https://pythonando.com.br/
 <br>
 https://www.youtube.com/@pythonando
 
+<center>
+![Imagem do projeto](media/cim/viwer.png)
+</center>
+
 ## Prepação do anbiente
 Estou desenvolvendo no ambiente WSL2 com Ubuntu. 
 Por favor, esteja ciente de que os comandos abaixo podem variar no ambiente Windows.
