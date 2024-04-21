@@ -6,6 +6,8 @@ authors = ["fabiocasadossites <contato@casadossites.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+Django = "^5.0.4"
+pillow = "^10.3.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
