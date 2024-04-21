@@ -1,9 +1,10 @@
 
-# Aplicação de Telemedicina com Django (PYSTACK WEEK 10)
+# Aplicação de Telemedicina com Django <br> (PYSTACK WEEK 10)
 Este projeto consiste em uma aplicação de telemedicina desenvolvida usando o framework Django. Durante três aulas, exploramos os seguintes aspectos.
 
 #### Projeto disponibilizado por:
 https://pythonando.com.br/
+<br>
 https://www.youtube.com/@pythonando
 
 ## Prepação do anbiente
