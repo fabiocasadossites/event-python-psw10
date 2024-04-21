@@ -8,7 +8,9 @@ https://pythonando.com.br/
 https://www.youtube.com/@pythonando
 
 <center>
+
 ![Imagem do projeto](media/cim/viwer.png)
+
 </center>
 
 ## Prepação do anbiente
