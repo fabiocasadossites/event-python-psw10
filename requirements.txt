@@ -1,0 +1,12 @@
+asgiref @ file:///root/.cache/pypoetry/artifacts/23/ed/56/e2425483fb18430c52983816f40707ada0acdb626b25b7c49968c1d2e1/asgiref-3.8.1-py3-none-any.whl
+attrs @ file:///root/.cache/pypoetry/artifacts/ec/e3/67/f39ee54e1bd6837eae3f7b4c6cb50af5be9d682214e5f31818c4d58da6/attrs-23.2.0-py3-none-any.whl
+Django @ file:///root/.cache/pypoetry/artifacts/21/9e/34/8138438c70ba858fdcda3c8d3921c27ce9364c18874db366d023fa52fe/Django-5.0.4-py3-none-any.whl
+more-itertools @ file:///root/.cache/pypoetry/artifacts/63/83/bd/8bb728210869fc8a5e80ee78896e8589fb32e943bdad2a97bc05c20637/more_itertools-10.2.0-py3-none-any.whl
+packaging @ file:///root/.cache/pypoetry/artifacts/16/b0/e3/9de32eb3cee4faf411c88d49bc4a86b90d4470081e4ad5f2f90478909e/packaging-24.0-py3-none-any.whl
+pillow @ file:///root/.cache/pypoetry/artifacts/b3/7f/f0/0114cb7cdd90343ee397cd1a58a3e606f9a49bd911f56c14a282c84b46/pillow-10.3.0-cp310-cp310-manylinux_2_28_x86_64.whl
+pluggy @ file:///root/.cache/pypoetry/artifacts/5c/74/60/0a66715d8599e4bd0cf44f05ca11f99f9a3674820bd68856704692b818/pluggy-0.13.1-py2.py3-none-any.whl
+py @ file:///root/.cache/pypoetry/artifacts/71/fb/64/bfdc833c2055a893883f33deaac35ef2cbdd95d58031cfc69a630f32bf/py-1.11.0-py2.py3-none-any.whl
+pytest @ file:///root/.cache/pypoetry/artifacts/57/1c/f3/15f706754e9e232390482021cb2d6b1308eb6ad0d8160b165a2e2307ef/pytest-5.4.3-py3-none-any.whl
+sqlparse @ file:///root/.cache/pypoetry/artifacts/f2/37/c1/5167f3e8ce45ab44af811fffb38cb60ba977bdd1db871949ff94fefd20/sqlparse-0.5.0-py3-none-any.whl
+typing_extensions @ file:///root/.cache/pypoetry/artifacts/ac/3b/12/1733c6273c399ec491476042ef9819aee4fda0cd3b4641db9416c5239f/typing_extensions-4.11.0-py3-none-any.whl
+wcwidth @ file:///root/.cache/pypoetry/artifacts/15/84/c3/fd12fddfe396116301bc64800f4f1d458bb200f3644c526b1b8d1bb146/wcwidth-0.2.13-py2.py3-none-any.whl

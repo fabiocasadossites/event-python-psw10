@@ -74,3 +74,7 @@ python3 manage.py makemigrations
 ````
 python3 manage.py createsuperuser
 ````
+### Comando para criar o arquivo de requerimentos
+````
+pip freeze > requirements.txt
+````
